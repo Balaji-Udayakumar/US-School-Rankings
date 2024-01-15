@@ -16,11 +16,15 @@ Our aim is to design, develop and implement an efficient and centralized databas
 # Data Sources Utilized:
 We have sourced our data from a variety of well-respected and renowned university ranking websites. These platforms are recognized for their detailed and current assessments of academic institutions worldwide. Our chosen sources, along with their reference links, are as follows:
 
-Data Source Reference Link
-Times Higher Education Ranking - https://www.timeshighereducation.com/world-university-rankings/
-QS ranking - https://www.topuniversities.com/world-university-rankings/
-Academic Ranking of World Universities - https://www.shanghairanking.com/rankings/arwu/
-US News & World Report Rankings - https://www.usnews.com/best-colleges/rankings/national-universities
+Data Source Reference Links:
+
+- Times Higher Education Ranking - https://www.timeshighereducation.com/world-university-rankings/
+
+- QS ranking - https://www.topuniversities.com/world-university-rankings/
+
+- Academic Ranking of World Universities - https://www.shanghairanking.com/rankings/arwu/
+
+- US News & World Report Rankings - https://www.usnews.com/best-colleges/rankings/national-universities
 
 # Project Analysis and Application:
 By integrating data from these diverse sources, our database system assembles a rich and detailed picture of the current academic landscape. This multifaceted analysis aids in identifying trends, strengths, and areas of improvement for universities, and it provides valuable insights for students, educators, and policy makers in making informed decisions.
